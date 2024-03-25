@@ -1,3 +1,3 @@
-## Image processing in Verilog
+# Image processing in Verilog
 
 Verilog program that applies various filters to an image.
